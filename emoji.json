@@ -38,7 +38,12 @@
       { "icon": "🙏", "text": "" },
       { "icon": "🍦", "text": "" },
       { "icon": "🍉", "text": "" },
-      { "icon": "😣", "text": "" }
+      { "icon": "😣", "text": "" },
+      { "icon": "🤝", "text": "" },
+      { "icon": "🖥", "text": "" },
+      { "icon": "🌞", "text": "" },
+      { "icon": "☁️", "text": "" },
+      { "icon": "❤️", "text": "" }
     ]
   }
 }
